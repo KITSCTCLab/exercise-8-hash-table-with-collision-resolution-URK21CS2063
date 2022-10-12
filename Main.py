@@ -1,5 +1,5 @@
 import re
-def display_hash(hashtable) -> None:
+def display__hash(hashtable) -> None:
  for keyvalue in range(len(hashtable)):
  cont = hashtable[keyvalue]
  print(keyvalue, end = " ")
